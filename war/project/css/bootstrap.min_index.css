@@ -118,11 +118,11 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 
 .footer, .push {
     margin-top: 50%;
-    background-color: #575757;
+    background-color: #000;
 }
 
 body {
-background-image: url(http://p1.pichost.me/i/52/1757716.jpg);
+background-color: #575757;
 
 -moz-background-size: cover;
 -webkit-background-size: cover;
