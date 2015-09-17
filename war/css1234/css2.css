@@ -1,0 +1,4 @@
+body { padding:20px; background-color: yellow; }
+.header { margin-bottom:30px; margin-top: 10px; background-color:red; height:80px; }
+.section { background-color:green;padding:10%; border: 1px solid black; margin-bottom:10px;}
+.footer { background-color:black;height:80px; padding:20px; }

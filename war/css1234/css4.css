@@ -1,0 +1,12 @@
+.section {
+	margin-left:10%;
+	margin-right:auto;
+	background-color:lime;
+	width:400px;
+}
+
+.picture {
+	content:url(aap.jpg);
+	width:80%;
+	height:auto;
+}
