@@ -117,7 +117,7 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 }
 
 .footer, .push {
-    margin-top: 50%;
+    margin-bottom: 10vh;
     background-color: #000;
 }
 
@@ -125,7 +125,7 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 	
 	overflow:auto;
 	border:1px solid black;
-	height:40vw;
+	height:40vh;
 	background-color:white;
 	padding-left:5%;
 	padding-right:5%;
@@ -134,12 +134,11 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 }
 
 body {
-background-color: #575757;
-
--moz-background-size: cover;
--webkit-background-size: cover;
-background-size: cover;
-background-position: top center !important;
-background-repeat: no-repeat !important;
-background-attachment: fixed;
+	background-color: #575757;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: top center !important;
+	background-repeat: no-repeat !important;
+	background-attachment: fixed;
 }
