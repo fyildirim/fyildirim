@@ -121,6 +121,18 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
     background-color: #000;
 }
 
+.commentbox {
+	
+	overflow:auto;
+	border:1px solid black;
+	height:40vw;
+	background-color:white;
+	padding-left:5%;
+	padding-right:5%;
+	padding-top:5%;
+	
+}
+
 body {
 background-color: #575757;
 
