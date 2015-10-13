@@ -26,7 +26,7 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
     background-color: green;
-}
+} 
 
 #wrapper.toggled #sidebar-wrapper {
     width: 280px;
